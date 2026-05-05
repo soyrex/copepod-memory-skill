@@ -1,0 +1,8 @@
+name: copepod-memory-skill
+description: >
+  Connect to Copepod Context Memory Engine (CME) to store, retrieve, search, and manage memories.
+  Use when you need to persist context across sessions, search for relevant past information,
+  or maintain working memory for a tenant.
+version: 1.0.0
+owner: soyrex
+source: github.com/soyrex/copepod-memory-skill
