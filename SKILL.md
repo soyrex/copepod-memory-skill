@@ -15,7 +15,7 @@ Connect to the Copepod Context Memory Engine (CME) to persist and retrieve seman
 Set these environment variables before using the skill:
 
 ```
-export CME_API_URL=https://api.cme.internal/v1
+export CME_API_URL=https://api.copepod.ai/memory
 export CME_API_KEY=<your-api-key>
 ```
 
